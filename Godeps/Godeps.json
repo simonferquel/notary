@@ -35,7 +35,7 @@
 			"Rev": "5a46080c635f13e8b60c24765c19d62e1ca8d0fb"
 		},
 		{
-			"ImportPath": "github.com/Sirupsen/logrus",
+			"ImportPath": "github.com/sirupsen/logrus",
 			"Comment": "v0.10.0-18-g6d9ae30",
 			"Rev": "6d9ae300aaf85d6acd2e5424081c7fcddb21dab8"
 		},
@@ -930,7 +930,7 @@
 			"Rev": "6a513affb38dc9788b449d59ffed099b8de18fa0"
 		},
 		{
-			"ImportPath": "github.com/docker/distribution/vendor/github.com/Sirupsen/logrus",
+			"ImportPath": "github.com/docker/distribution/vendor/github.com/sirupsen/logrus",
 			"Comment": "v2.5.1",
 			"Rev": "12acdf0a6c1e56d965ac6eb395d2bce687bf22fc"
 		},

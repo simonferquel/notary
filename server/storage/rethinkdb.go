@@ -8,7 +8,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/docker/notary/storage/rethinkdb"
 	"github.com/docker/notary/tuf/data"
 	"gopkg.in/dancannon/gorethink.v2"

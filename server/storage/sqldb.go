@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/go-sql-driver/mysql"
 	"github.com/jinzhu/gorm"
 )
